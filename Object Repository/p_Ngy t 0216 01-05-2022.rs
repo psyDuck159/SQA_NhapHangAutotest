@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Ngy t 0216 01-05-2022</name>
+   <tag></tag>
+   <elementGuidId>698d40af-4be4-4fb9-b54d-989aa958989d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[16]/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2b27c9b4-7201-44a4-8b3d-5955785a6ed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ngày đặt: 02:16 01-05-2022</value>
+      <webElementGuid>197c10a4-ca3d-43f8-a887-e89d70b78392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-eCstlR bHvPVt&quot;]/div[@class=&quot;children&quot;]/div[@class=&quot;sc-jSgvzq bgeVEz&quot;]/div[@class=&quot;list&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-6&quot;]/div[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]/p[1]</value>
+      <webElementGuid>04b74c3c-eba0-422e-ac35-379f3da0d8bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[16]/div/div[2]/p</value>
+      <webElementGuid>93d879d2-ba09-4967-b7da-7918e54680af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jim Carry'])[1]/following::p[1]</value>
+      <webElementGuid>dcd2b74a-d96f-45d8-8170-4a15c7ce73df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arnold Schwarzenegger'])[6]/following::p[4]</value>
+      <webElementGuid>48c7df5d-f2d1-4188-a622-f4aa2626e2bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm mới đơn đặt hàng'])[1]/preceding::p[3]</value>
+      <webElementGuid>16264f15-9d06-4931-b460-d3abac352f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Các sản phẩm đã được thêm'])[1]/preceding::p[3]</value>
+      <webElementGuid>ab35d57a-884e-4868-bf0f-6879b00d798b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div[2]/p</value>
+      <webElementGuid>e78a1a8d-eabe-47b2-b862-5fdea21934d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Ngày đặt: 02:16 01-05-2022' or . = 'Ngày đặt: 02:16 01-05-2022')]</value>
+      <webElementGuid>5bb7f1f8-c792-4653-8116-eb9edf3f4c45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

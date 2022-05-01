@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>add import order non-number quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc2b8077-330d-4b23-bdb0-f4e13c52f3f1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ngy t 0216 01-05-2022Tng gi tin 2630000_89c384</name>
+   <tag></tag>
+   <elementGuidId>f1176286-5c0d-471c-aa5c-20bf55820449</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[16]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>885eeaa6-a7e3-483b-b5ac-cafcda3c3ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-card-body</value>
+      <webElementGuid>2aa28dfc-96d8-4b7c-8897-1117daed30ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ngày đặt: 02:16 01-05-2022Tổng giá tiền: 263000000Tổng sản phẩm: 2</value>
+      <webElementGuid>aae46944-e728-4570-bf57-c725b13e37c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-eCstlR bHvPVt&quot;]/div[@class=&quot;children&quot;]/div[@class=&quot;sc-jSgvzq bgeVEz&quot;]/div[@class=&quot;list&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-6&quot;]/div[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]</value>
+      <webElementGuid>82dd4dc3-0753-4e54-a207-0f694eb3c8bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[16]/div/div[2]</value>
+      <webElementGuid>d6612d7d-ab1a-4cfa-a617-667e5c7d42fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jim Carry'])[1]/following::div[1]</value>
+      <webElementGuid>296ea633-6a4e-4b8a-b46f-eaa817d35ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arnold Schwarzenegger'])[6]/following::div[7]</value>
+      <webElementGuid>fee5db75-cd7d-44b7-adbc-4d3db8f700fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm mới đơn đặt hàng'])[1]/preceding::div[4]</value>
+      <webElementGuid>e31663f3-bac1-48ab-9104-185c2d8fbd88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Các sản phẩm đã được thêm'])[1]/preceding::div[6]</value>
+      <webElementGuid>ea9c1a05-69d5-4baf-b97f-25b3bec50a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div[2]</value>
+      <webElementGuid>30c53acd-9c8b-4e85-a495-49018762c067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ngày đặt: 02:16 01-05-2022Tổng giá tiền: 263000000Tổng sản phẩm: 2' or . = 'Ngày đặt: 02:16 01-05-2022Tổng giá tiền: 263000000Tổng sản phẩm: 2')]</value>
+      <webElementGuid>f9e2149f-8f1f-46e7-8f08-3511228b2755</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

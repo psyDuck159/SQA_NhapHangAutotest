@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>add import order negative quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae4057f9-bbbd-4ddb-8aff-a4ba0b03946d</testCaseGuid>
+</TestCaseEntity>
