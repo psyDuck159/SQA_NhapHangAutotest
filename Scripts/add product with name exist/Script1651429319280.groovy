@@ -17,17 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('add product success'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('http://localhost:3000/login')
+WebUI.click(findTestObject('Object Repository/Page_React App/button_Qun l sn phm_ant-btn ant-btn-default'))
 
-WebUI.setText(findTestObject('Object Repository/input_Username_basic_username'), 'jim')
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Tn_basic_name'), '')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_basic_password'), 'tzH6RvlfSTg=')
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Tn_basic_name'), 'abc')
 
-WebUI.click(findTestObject('Object Repository/span_Submit'))
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Gi_basic_price'), '1')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/span_Ngi dng khng tn ti'), 0)
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_M t_basic_description'), '123')
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Cng dng_basic_usageOfProduct'), '456')
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Cch s dng_basic_guide'), '789')
+
+WebUI.click(findTestObject('Page_React App/span_Submit'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_React App/span_Vui lng th li'), 'Vui lòng thử lại')
 
 WebUI.closeBrowser()
 

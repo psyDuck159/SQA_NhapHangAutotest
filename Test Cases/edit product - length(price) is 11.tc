@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>edit product - length(price) is 11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c110a7cb-8b73-48ef-9a66-36ae4ca30275</testCaseGuid>
+</TestCaseEntity>

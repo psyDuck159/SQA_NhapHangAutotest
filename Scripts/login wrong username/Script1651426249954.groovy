@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/login')
 
-WebUI.setText(findTestObject('Object Repository/input_Username_basic_username'), 'jim')
+WebUI.setText(findTestObject('Object Repository/input_Username_basic_username'), 'jim123')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_basic_password'), 'tzH6RvlfSTg=')
+WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_basic_password'), '4nvbrPglk7k=')
 
 WebUI.click(findTestObject('Object Repository/span_Submit'))
 

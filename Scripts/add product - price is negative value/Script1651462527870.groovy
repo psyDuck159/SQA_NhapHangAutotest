@@ -19,15 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://localhost:3000/login')
+WebUI.navigateToUrl('http://localhost:3000/product')
 
-WebUI.setText(findTestObject('Object Repository/input_Username_basic_username'), 'jim')
+WebUI.click(findTestObject('Object Repository/Page_React App/path'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_basic_password'), 'tzH6RvlfSTg=')
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Tn_basic_name'), 'sp1')
 
-WebUI.click(findTestObject('Object Repository/span_Submit'))
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Gi_basic_price'), '-5')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/span_Ngi dng khng tn ti'), 0)
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_M t_basic_description'), 'a')
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Cng dng_basic_usageOfProduct'), 'b')
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Cch s dng_basic_guide'), 'c')
+
+WebUI.click(findTestObject('Object Repository/Page_React App/span_Submit'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_React App/span_Vui lng th li'), 'Vui lòng thử lại')
 
 WebUI.closeBrowser()
 

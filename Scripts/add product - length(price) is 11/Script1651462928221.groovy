@@ -21,13 +21,27 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/login')
 
-WebUI.setText(findTestObject('Object Repository/input_Username_basic_username'), 'jim')
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Username_basic_username'), 'jim')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_basic_password'), 'tzH6RvlfSTg=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_React App/input_Password_basic_password'), '4nvbrPglk7k=')
 
-WebUI.click(findTestObject('Object Repository/span_Submit'))
+WebUI.click(findTestObject('Object Repository/Page_React App/span_Submit'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/span_Ngi dng khng tn ti'), 0)
+WebUI.click(findTestObject('Object Repository/Page_React App/button_Qun l sn phm_ant-btn ant-btn-default'))
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Tn_basic_name'), 'sp1')
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Gi_basic_price'), '12345678901')
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_M t_basic_description'), '123')
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Cng dng_basic_usageOfProduct'), '456')
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Cch s dng_basic_guide'), '789')
+
+WebUI.click(findTestObject('Object Repository/Page_React App/button_Submit'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_React App/span_Vui lng th li'), 'Vui lòng thử lại')
 
 WebUI.closeBrowser()
 

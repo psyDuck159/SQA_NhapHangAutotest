@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gi 1234M t ErRUIJdJfsG7KLR5W2qWgITd8H0y_0ea330</name>
+   <tag></tag>
+   <elementGuidId>0915c39a-9231-49ca-b145-f52647ad4232</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-card-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5aaea4d3-5e7d-4258-8ba5-3468695265ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-card-body</value>
+      <webElementGuid>96f9ed32-1b20-4805-baad-d48a302e5c5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Giá: 1234Mô tả: ErRUIJdJfsG7KLR5W2qWgITd8H0yfpotGRKT7bAER01s4yxEvDvnf5t6ul4UFhWd6grc1oCb6r4T3Tjg9WaSzcu5F34LvLdFa7WykCu0ErdjLnaLRmkQWuGMWZquVLkBxp2HpZ5ZSvaiq6UPfbEQzMZuCW0Ktq7meQd6K7qPaiQTCDk0uQMhV0p379a5xKwxz5F2Am8Vt0pAkWLr1iQafjtd7d6SRDE9bTuQRYy93ZfXglbSjmRP0QPUma5xdIYF20lXQHZaRNnDvb4v2eIyNumbElsnLtCtqPqMuoOdVawvvn8Ggwxt95GvUE0uqc8Y17a3DgqlTjUjEvJnDLeXgPS1N0skiB1J0C6nLj8PHlL1IZnFx47sBzmhbsLa0ICwLEhAUm7i2cK0zfLk3azeJkThHx2ipoBaTtW5ztBwSjddcs5Z84GP7Gni4o0wUPIR0vakAOEOKiTPICN907KvVDEuRQILBRPbZgx9hDjiOj8uVyLRlHAydRAqO1VkiQoE4J1g1fg3NAuAJvsPyewwCG4Nm2v8fOCU08hZY9fjNPhxwpoKZjNEOkCQSayABOY8h0ENSIFypi4FNy4goobNhowvRkG2fHiPZsNVveS2lZlCDmG21mUZRGZIGMTa1THQzmmh2JR7TtTxbepDIaZq5lVhPER2lsS6YIwhjmqRyCYODofNA7XBSwuDjcV8grOxPsSQPQkPddj4vXlrd6SvvynzYtNRkp2GDzpmejP2QKQhwktn5jaGSIiHeedg5k77WUnhyRMcvCGG5UYPiOnE3cgmExHFl5LpP2Hgi2Ny99DQL3IIJO8dNDQ09qSyKtQRwZXD5GKuREr9hUvVTj1sZCjgwf4gRltRetYEi5BQZDAt7cJcW1fvAipvLOkQ6e2Z2cNhhJLlTqvevISxR2MIcHpKzC324cagugH14Mh7ojwroHMqkqIaJBqaRH9jMmlUTUFs1IWp1snO7WjDKl1xtI1RD6XtrAClL3KyUwljCông dụng: defCách sử dụng: ghi</value>
+      <webElementGuid>ce734751-e319-4455-a90a-a739524da152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-eCstlR bHvPVt&quot;]/div[@class=&quot;children&quot;]/div[@class=&quot;sc-jSgvzq bgeVEz&quot;]/div[@class=&quot;list&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-6&quot;]/div[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]</value>
+      <webElementGuid>ddd22cdb-42a9-466f-b4c2-09a5f31586aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>f5fc870f-c2ad-48d4-b83f-ed38618c0d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='abc'])[1]/following::div[1]</value>
+      <webElementGuid>91dcf850-5816-4668-a0da-89bba5cfc1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý sản phẩm'])[2]/following::div[9]</value>
+      <webElementGuid>5876f056-ae41-436c-80b8-26f0c19bee99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>3d19e450-a712-4610-8e89-1b69a6ab5f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Giá: 1234Mô tả: ErRUIJdJfsG7KLR5W2qWgITd8H0yfpotGRKT7bAER01s4yxEvDvnf5t6ul4UFhWd6grc1oCb6r4T3Tjg9WaSzcu5F34LvLdFa7WykCu0ErdjLnaLRmkQWuGMWZquVLkBxp2HpZ5ZSvaiq6UPfbEQzMZuCW0Ktq7meQd6K7qPaiQTCDk0uQMhV0p379a5xKwxz5F2Am8Vt0pAkWLr1iQafjtd7d6SRDE9bTuQRYy93ZfXglbSjmRP0QPUma5xdIYF20lXQHZaRNnDvb4v2eIyNumbElsnLtCtqPqMuoOdVawvvn8Ggwxt95GvUE0uqc8Y17a3DgqlTjUjEvJnDLeXgPS1N0skiB1J0C6nLj8PHlL1IZnFx47sBzmhbsLa0ICwLEhAUm7i2cK0zfLk3azeJkThHx2ipoBaTtW5ztBwSjddcs5Z84GP7Gni4o0wUPIR0vakAOEOKiTPICN907KvVDEuRQILBRPbZgx9hDjiOj8uVyLRlHAydRAqO1VkiQoE4J1g1fg3NAuAJvsPyewwCG4Nm2v8fOCU08hZY9fjNPhxwpoKZjNEOkCQSayABOY8h0ENSIFypi4FNy4goobNhowvRkG2fHiPZsNVveS2lZlCDmG21mUZRGZIGMTa1THQzmmh2JR7TtTxbepDIaZq5lVhPER2lsS6YIwhjmqRyCYODofNA7XBSwuDjcV8grOxPsSQPQkPddj4vXlrd6SvvynzYtNRkp2GDzpmejP2QKQhwktn5jaGSIiHeedg5k77WUnhyRMcvCGG5UYPiOnE3cgmExHFl5LpP2Hgi2Ny99DQL3IIJO8dNDQ09qSyKtQRwZXD5GKuREr9hUvVTj1sZCjgwf4gRltRetYEi5BQZDAt7cJcW1fvAipvLOkQ6e2Z2cNhhJLlTqvevISxR2MIcHpKzC324cagugH14Mh7ojwroHMqkqIaJBqaRH9jMmlUTUFs1IWp1snO7WjDKl1xtI1RD6XtrAClL3KyUwljCông dụng: defCách sử dụng: ghi' or . = 'Giá: 1234Mô tả: ErRUIJdJfsG7KLR5W2qWgITd8H0yfpotGRKT7bAER01s4yxEvDvnf5t6ul4UFhWd6grc1oCb6r4T3Tjg9WaSzcu5F34LvLdFa7WykCu0ErdjLnaLRmkQWuGMWZquVLkBxp2HpZ5ZSvaiq6UPfbEQzMZuCW0Ktq7meQd6K7qPaiQTCDk0uQMhV0p379a5xKwxz5F2Am8Vt0pAkWLr1iQafjtd7d6SRDE9bTuQRYy93ZfXglbSjmRP0QPUma5xdIYF20lXQHZaRNnDvb4v2eIyNumbElsnLtCtqPqMuoOdVawvvn8Ggwxt95GvUE0uqc8Y17a3DgqlTjUjEvJnDLeXgPS1N0skiB1J0C6nLj8PHlL1IZnFx47sBzmhbsLa0ICwLEhAUm7i2cK0zfLk3azeJkThHx2ipoBaTtW5ztBwSjddcs5Z84GP7Gni4o0wUPIR0vakAOEOKiTPICN907KvVDEuRQILBRPbZgx9hDjiOj8uVyLRlHAydRAqO1VkiQoE4J1g1fg3NAuAJvsPyewwCG4Nm2v8fOCU08hZY9fjNPhxwpoKZjNEOkCQSayABOY8h0ENSIFypi4FNy4goobNhowvRkG2fHiPZsNVveS2lZlCDmG21mUZRGZIGMTa1THQzmmh2JR7TtTxbepDIaZq5lVhPER2lsS6YIwhjmqRyCYODofNA7XBSwuDjcV8grOxPsSQPQkPddj4vXlrd6SvvynzYtNRkp2GDzpmejP2QKQhwktn5jaGSIiHeedg5k77WUnhyRMcvCGG5UYPiOnE3cgmExHFl5LpP2Hgi2Ny99DQL3IIJO8dNDQ09qSyKtQRwZXD5GKuREr9hUvVTj1sZCjgwf4gRltRetYEi5BQZDAt7cJcW1fvAipvLOkQ6e2Z2cNhhJLlTqvevISxR2MIcHpKzC324cagugH14Mh7ojwroHMqkqIaJBqaRH9jMmlUTUFs1IWp1snO7WjDKl1xtI1RD6XtrAClL3KyUwljCông dụng: defCách sử dụng: ghi')]</value>
+      <webElementGuid>0415e585-679e-4083-aeb7-a6d8c0629188</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

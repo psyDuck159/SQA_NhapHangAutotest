@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OK</name>
+   <tag></tag>
+   <elementGuidId>12bf9b4f-9b91-41f3-af50-8655421f8df4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-primary.ant-btn-sm > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4f1e207-781e-4737-94a3-ccc969c998f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>638be520-8dc0-4773-9011-d68e1e704224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[1]/div[@class=&quot;ant-popover ant-popconfirm ant-popover-placement-bottom&quot;]/div[@class=&quot;ant-popover-content&quot;]/div[@class=&quot;ant-popover-inner&quot;]/div[@class=&quot;ant-popover-inner-content&quot;]/div[@class=&quot;ant-popover-buttons&quot;]/button[@class=&quot;ant-btn ant-btn-primary ant-btn-sm&quot;]/span[1]</value>
+      <webElementGuid>7730260d-290d-434c-9f15-ad7a952fd7b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>ee049ed8-00e5-4b66-a7d3-f0a5da641aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn có chắc chắn muốn xóa sản phẩm này ?'])[1]/following::span[2]</value>
+      <webElementGuid>f5586d59-1037-4829-88e7-f633f13ad456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+      <webElementGuid>3081df92-9507-4e4c-986a-d7ae5e25eac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>0ba15538-94da-470a-b135-23f91951c0cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>6b5c7d09-fd0a-42e3-85d8-078869c059bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

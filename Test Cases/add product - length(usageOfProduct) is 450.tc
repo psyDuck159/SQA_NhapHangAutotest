@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>add product - length(usageOfProduct) is 450</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8eb5b92-96d5-4da7-b376-99ceb12a7cc1</testCaseGuid>
+</TestCaseEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>login</name>
+   <name>delete product</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>8d0a7648-4cad-494e-a39f-2b9f21390e0f</testSuiteGuid>
+   <testSuiteGuid>456f4d87-510b-4750-b418-09153e80c741</testSuiteGuid>
    <testCaseLink>
-      <guid>f9ec1955-df70-4790-b638-23c0028358c8</guid>
+      <guid>08c42930-ce1c-4302-bbc0-1feaec6cc628</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/login wrong password</testCaseId>
+      <testCaseId>Test Cases/delete product - click button cancel</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>8b0c0baa-8aa1-430c-a0ac-c2c867d78e2f</guid>
+      <guid>4a048a0c-61a1-4071-95c5-72437ef6ce90</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/login success</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a33c9701-2a1e-46dc-ac45-de52d767db2b</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/login wrong username</testCaseId>
+      <testCaseId>Test Cases/delete product success</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -19,15 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://localhost:3000/login')
+WebUI.callTestCase(findTestCase('login success'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_Username_basic_username'), 'jim')
+WebUI.click(findTestObject('Object Repository/Page_React App/button_Qun l sn phm_ant-btn ant-btn-default'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_basic_password'), 'tzH6RvlfSTg=')
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Tn_basic_name'), 'URrxk3C7BDDsfqYkfpi2I8LKIed7Whxb6k7CwULVQaP1h')
 
-WebUI.click(findTestObject('Object Repository/span_Submit'))
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Gi_basic_price'), '1234')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/span_Ngi dng khng tn ti'), 0)
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_M t_basic_description'), 'abc')
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Cng dng_basic_usageOfProduct'), 'def')
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Cch s dng_basic_guide'), 'ghi')
+
+WebUI.click(findTestObject('Object Repository/Page_React App/span_Submit'))
+
+WebUI.delay(1)
 
 WebUI.closeBrowser()
 

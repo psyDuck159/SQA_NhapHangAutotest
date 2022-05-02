@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cancel</name>
+   <tag></tag>
+   <elementGuidId>b454f403-fa23-4d2c-bfed-462b30921609</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn có chắc chắn muốn xóa sản phẩm này ?'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.ant-btn-sm > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>705199b4-ea2b-4ed8-9a3b-7b67b1114590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>0add810d-e1bf-417a-b779-8e4297731472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[1]/div[@class=&quot;ant-popover ant-popconfirm ant-popover-placement-bottom&quot;]/div[@class=&quot;ant-popover-content&quot;]/div[@class=&quot;ant-popover-inner&quot;]/div[@class=&quot;ant-popover-inner-content&quot;]/div[@class=&quot;ant-popover-buttons&quot;]/button[@class=&quot;ant-btn ant-btn-default ant-btn-sm&quot;]/span[1]</value>
+      <webElementGuid>0e811ead-8581-42e3-ae73-de6117e875f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn có chắc chắn muốn xóa sản phẩm này ?'])[1]/following::span[1]</value>
+      <webElementGuid>1cf49252-5ceb-4541-9c8c-9a377b4e5e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='abc'])[1]/following::span[3]</value>
+      <webElementGuid>9c3f439e-e52e-407c-bae4-bf5e14a2ba93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[1]</value>
+      <webElementGuid>c84fb30d-c2d3-4d24-86fb-8e5dcc6532a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
+      <webElementGuid>ecc09bd0-0f71-4620-9896-d0685220b72f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>a4cb636d-393a-46af-a98b-8a1c57da8bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>3baed8ad-c40d-40c3-88ba-51b7041da6de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

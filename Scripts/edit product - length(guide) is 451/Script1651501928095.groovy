@@ -21,13 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/login')
 
-WebUI.setText(findTestObject('Object Repository/input_Username_basic_username'), 'jim')
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Username_basic_username'), 'jim')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_basic_password'), 'tzH6RvlfSTg=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_React App/input_Password_basic_password'), '4nvbrPglk7k=')
 
-WebUI.click(findTestObject('Object Repository/span_Submit'))
+WebUI.click(findTestObject('Object Repository/Page_React App/span_Submit'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/span_Ngi dng khng tn ti'), 0)
+WebUI.click(findTestObject('Object Repository/Page_React App/div_abc'))
+
+WebUI.click(findTestObject('Object Repository/Page_React App/button_Qun l sn phm_ant-btn ant-btn-default'))
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Cch s dng_basic_guide'), '1cYLdU0kpCdpCeKDdh0wC5lzp8nt67A1KCa6NcUmJDc1M15lwkE1rMrkD6rVQZQ0ZxgwMx7QMTNjoxtg85jkY5xQmG6tgQDsaHlmUdJvbFeODa3sYHLb9s77Ow7wirxfITjC5Bs976nbHi1J48vqvqcwUiNBPiBPZpFvdRypgoVLCcn0WP739V6WDYmxZ7c3yZWw1KOePxlGgOl1Hlt6Ad6kHtrGKkpkPikKYKDCy1h9tdDoVys6gvpNRXEyyK6uNDIreNVHj6Vt3BFoUSBWRusR0FqTNHPHBOvcbquXk3plpm7X8Gvp5SMlm0fu84ZKanLSGArG2fIW7GYkQgYo1hSYEjWQ13e6ckgwe8Od0CwW7GJA08NKzjxp7njG9gbYx9FR3Pkv5xqjyBDmVEtX7v9vGHkNF0wkVfyw1v7qmBecGEsAimRoam4vzu2Gsj9HS8l')
+
+WebUI.click(findTestObject('Object Repository/Page_React App/span_Submit'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_React App/span_Vui lng th li'), 0)
 
 WebUI.closeBrowser()
 

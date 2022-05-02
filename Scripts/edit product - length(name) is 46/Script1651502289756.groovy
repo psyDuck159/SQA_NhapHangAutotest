@@ -21,13 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/login')
 
-WebUI.setText(findTestObject('Object Repository/input_Username_basic_username'), 'jim')
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Username_basic_username'), 'jim')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_basic_password'), 'tzH6RvlfSTg=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_React App/input_Password_basic_password'), '4nvbrPglk7k=')
 
-WebUI.click(findTestObject('Object Repository/span_Submit'))
+WebUI.click(findTestObject('Object Repository/Page_React App/span_Submit'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/span_Ngi dng khng tn ti'), 0)
+WebUI.click(findTestObject('Object Repository/Page_React App/div_URrxk3C7BDDsfqYkfpi2I8LKIed7Whxb6k7CwULVQaP1h'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_React App/div_URrxk3C7BDDsfqYkfpi2I8LKIed7Whxb6k7CwULVQaP1h'))
+
+WebUI.click(findTestObject('Object Repository/Page_React App/div_URrxk3C7BDDsfqYkfpi2I8LKIed7Whxb6k7CwULVQaP1h'))
+
+WebUI.click(findTestObject('Object Repository/Page_React App/svg'))
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Tn_basic_name'), 'URrxk3C7BDDsfqYkfpi2I8LKIed7Whxb6k7CwULVQaP1h')
+
+WebUI.click(findTestObject('Object Repository/Page_React App/span_Submit'))
+
+WebUI.rightClick(findTestObject('Object Repository/Page_React App/div_Chnh sa mt hng thnh cng'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_React App/span_Chnh sa mt hng thnh cng'), 0)
 

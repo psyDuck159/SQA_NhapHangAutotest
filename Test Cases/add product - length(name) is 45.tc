@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>add product - length(name) is 45</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26ba31aa-aa90-47c1-b06c-c92f03c91389</testCaseGuid>
+</TestCaseEntity>

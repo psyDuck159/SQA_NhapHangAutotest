@@ -21,13 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/login')
 
-WebUI.setText(findTestObject('Object Repository/input_Username_basic_username'), 'jim')
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Username_basic_username'), 'jim')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_basic_password'), 'tzH6RvlfSTg=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_React App/input_Password_basic_password'), '4nvbrPglk7k=')
 
-WebUI.click(findTestObject('Object Repository/span_Submit'))
+WebUI.click(findTestObject('Object Repository/Page_React App/span_Submit'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/span_Ngi dng khng tn ti'), 0)
+WebUI.click(findTestObject('Object Repository/Page_React App/div_abc'))
+
+WebUI.click(findTestObject('Object Repository/Page_React App/button_Qun l sn phm_ant-btn ant-btn-default'))
+
+WebUI.setText(findTestObject('Object Repository/Page_React App/input_Tn_basic_name'), '')
+
+WebUI.click(findTestObject('Object Repository/Page_React App/span_Submit'))
 
 WebUI.closeBrowser()
 

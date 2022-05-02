@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Chnh sa mt hng thnh cng</name>
+   <tag></tag>
+   <elementGuidId>bb52c2af-8862-4935-ac16-6ca4e9d261bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>48abb854-7059-4f6e-ba6b-eb4e5a3356a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chỉnh sửa mặt hàng thành công</value>
+      <webElementGuid>602ec729-b0f6-4292-9b6e-afaa7bcea074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[@class=&quot;ant-message&quot;]/div[1]/div[@class=&quot;ant-message-notice&quot;]/div[@class=&quot;ant-message-notice-content&quot;]/div[@class=&quot;ant-message-custom-content ant-message-success&quot;]/span[2]</value>
+      <webElementGuid>0b6ab69c-b708-43f0-8461-d9a70aac59ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>359d948e-9b69-4f3c-b6a7-2662b8edb88c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chỉnh sửa mặt hàng thành công</value>
+      <webElementGuid>f956fed8-aba9-4f27-9296-aa361ff61f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[@class=&quot;ant-message&quot;]/div[1]/div[@class=&quot;ant-message-notice&quot;]/div[@class=&quot;ant-message-notice-content&quot;]/div[@class=&quot;ant-message-custom-content ant-message-success&quot;]/span[2]</value>
+      <webElementGuid>11f9ba07-638c-49c6-9172-1d06b738ff3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9ca11b93-36ef-483a-b2ea-a8a9cb6bab43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chỉnh sửa mặt hàng thành công</value>
+      <webElementGuid>88810787-b096-446e-a3c7-55b417c05dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[@class=&quot;ant-message&quot;]/div[1]/div[@class=&quot;ant-message-notice&quot;]/div[@class=&quot;ant-message-notice-content&quot;]/div[@class=&quot;ant-message-custom-content ant-message-success&quot;]/span[2]</value>
+      <webElementGuid>9624efb5-a2e8-470b-93df-f2b734e345aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>688768c4-1d0c-4416-9965-91c98467d39e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chỉnh sửa mặt hàng thành công</value>
+      <webElementGuid>6b803a27-a29d-41eb-8a93-7e87bad4578c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[@class=&quot;ant-message&quot;]/div[1]/div[@class=&quot;ant-message-notice&quot;]/div[@class=&quot;ant-message-notice-content&quot;]/div[@class=&quot;ant-message-custom-content ant-message-success&quot;]/span[2]</value>
+      <webElementGuid>2563432e-e6d0-4f21-be5e-b4cc197d3d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>589fd94f-60ce-4b2b-920a-73e1cdf3f67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chỉnh sửa mặt hàng thành công</value>
+      <webElementGuid>663a5139-a613-49a9-995e-18c727a2a30a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[@class=&quot;ant-message&quot;]/div[1]/div[@class=&quot;ant-message-notice&quot;]/div[@class=&quot;ant-message-notice-content&quot;]/div[@class=&quot;ant-message-custom-content ant-message-success&quot;]/span[2]</value>
+      <webElementGuid>0fd4d23e-9ae2-406f-8665-bd5995093a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>011eb58b-c185-4b67-af5b-3e70d45c2cdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chỉnh sửa mặt hàng thành công</value>
+      <webElementGuid>ff26a2a4-3bb8-4847-bdae-ad7379092fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[@class=&quot;ant-message&quot;]/div[1]/div[@class=&quot;ant-message-notice&quot;]/div[@class=&quot;ant-message-notice-content&quot;]/div[@class=&quot;ant-message-custom-content ant-message-success&quot;]/span[2]</value>
+      <webElementGuid>a3b56630-d2e3-427f-9283-f26666464103</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::span[2]</value>
+      <webElementGuid>ee68c169-741e-45db-89d8-6e015c381e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[3]</value>
+      <webElementGuid>ad4b6a7f-87b9-4b7a-8de5-86fcad97a263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chỉnh sửa mặt hàng thành công']/parent::*</value>
+      <webElementGuid>d66b4539-bebd-416c-9f64-02c77006f709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/span[2]</value>
+      <webElementGuid>93aa8051-e933-4fe1-b6f1-bf0ea6d14a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Chỉnh sửa mặt hàng thành công' or . = 'Chỉnh sửa mặt hàng thành công')]</value>
+      <webElementGuid>7a60a521-9ab7-4d5f-8b1e-79896dec641c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

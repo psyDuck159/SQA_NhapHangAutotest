@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>edit product - length(usageOfProduct) is 450</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c632fcdc-ae22-4361-88bc-486efdca193e</testCaseGuid>
+</TestCaseEntity>
